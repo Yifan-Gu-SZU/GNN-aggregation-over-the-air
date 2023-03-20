@@ -1,17 +1,17 @@
 This repository contains our work<br />
-**Graph Neural Networks for Distributed Power Allocation in Wireless Networks: Aggregation Over-the-Air**, which is available at https://arxiv.org/abs/2207.08498, and to be appear in TWC.<br />
+**Graph Neural Networks for Distributed Power Allocation in Wireless Networks: Aggregation Over-the-Air**, which is available at https://arxiv.org/abs/2207.08498, and accepted by the TWC (early access).<br />
 
 **For any reproduce, further research or development, please kindly cite our paper**<br />
 @ARTICLE{GNN_aggregation_OTA,<br />
-       author = {{Gu}, Yifan and {She}, Changyang and {Quan}, Zhi and {Qiu}, Chen and {Xu}, Xiaodong},<br />
-        title = "{Distributed Graph Neural Networks for Optimizing Wireless Networks: Message Passing Over-the-Air}",<br />
-      journal = {arXiv e-prints},<br />
-         year = 2022,<br />
-        month = jul,<br />>
-archivePrefix = {arXiv},<br />
-       eprint = {2207.08498},<br />
- primaryClass = {eess.SP},<br />
-}<br />
+  author={Gu, Yifan and She, Changyang and Quan, Zhi and Qiu, Chen and Xu, Xiaodong},<br />
+  journal={IEEE Transactions on Wireless Communications}, 
+  title={Graph Neural Networks for Distributed Power Allocation in Wireless Networks: Aggregation Over-the-Air},<br /> 
+  year={2023},<br />
+  volume={},<br />
+  number={},<br />
+  pages={1-1},<br />
+  doi={10.1109/TWC.2023.3253126}<br />
+  }<br />
 
 **Instructions:**<br />
 1. Simulation for MPNN, WMMSE and EPA policies can be found in **MPNN and WMMSE and EPA.py**.<br />
