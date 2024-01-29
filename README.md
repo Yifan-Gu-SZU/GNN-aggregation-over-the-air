@@ -1,5 +1,5 @@
 This repository contains our work<br />
-**Graph Neural Networks for Distributed Power Allocation in Wireless Networks: Aggregation Over-the-Air**, which is available at https://arxiv.org/abs/2207.08498, and accepted by the TWC (early access).<br />
+**Graph Neural Networks for Distributed Power Allocation in Wireless Networks: Aggregation Over-the-Air**, which is accepted by the TWC.<br />
 
 **For any reproduce, further research or development, please kindly cite our paper**<br />
 @ARTICLE{GNN_aggregation_OTA,<br />
