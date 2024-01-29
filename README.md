@@ -7,10 +7,10 @@ This repository contains our work<br />
   journal={IEEE Transactions on Wireless Communications}, 
   title={Graph Neural Networks for Distributed Power Allocation in Wireless Networks: Aggregation Over-the-Air},<br /> 
   year={2023},<br />
-  volume={},<br />
-  number={},<br />
-  pages={1-1},<br />
-  doi={10.1109/TWC.2023.3253126}<br />
+  volume={22},<br />
+  number={11},<br />
+  pages={7551-7564}, <br />
+  month={Nov.},<br />
   }<br />
 
 **Instructions:**<br />
